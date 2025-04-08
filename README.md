@@ -18,7 +18,7 @@ Este projeto consiste em uma série de exercícios práticos com **objetos em Ja
 js-objetos-vendas/
 ├── exercicios-venda.js   // Código principal com os exercícios
 └── README.md             // Este arquivo de documentação
-<pre><code>```none
+``` </code></pre>
 ---
 
 ## 🧠 O que foi praticado
