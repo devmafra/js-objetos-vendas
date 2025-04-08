@@ -33,7 +33,8 @@ js-objetos-vendas/
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
+
 Feito com dedicação por Davi Mafra — @devmafra
 
 ---
