@@ -15,7 +15,9 @@ Este projeto consiste em uma série de exercícios práticos com **objetos em Ja
 
 ## 📂 Estrutura
 
-- `exercicios-venda.js`: Arquivo com todos os exercícios, incluindo o desafio bônus implementado.
+js-objetos-vendas/
+├── exercicios-venda.js   // Código principal com os exercícios
+└── README.md             // Este arquivo de documentação
 
 ---
 
@@ -29,6 +31,9 @@ Este projeto consiste em uma série de exercícios práticos com **objetos em Ja
 - Definição de propriedades não-enumeráveis com `Object.defineProperty()`
 - Criação de listas de vendas e cálculo de totais
 
+---
+👨‍💻 Autor
+Feito com dedicação por Davi Mafra — @devmafra
 ---
 
 ## ▶️ Como rodar
