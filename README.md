@@ -14,11 +14,11 @@ Este projeto consiste em uma série de exercícios práticos com **objetos em Ja
 ---
 
 ## 📂 Estrutura
-<pre><code>```none
+<pre><code>
 js-objetos-vendas/
 ├── exercicios-venda.js   // Código principal com os exercícios
 └── README.md             // Este arquivo de documentação
-``` </code></pre>
+</code></pre>
 ---
 
 ## 🧠 O que foi praticado
