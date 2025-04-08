@@ -32,8 +32,10 @@ js-objetos-vendas/
 - Criação de listas de vendas e cálculo de totais
 
 ---
+
 👨‍💻 Autor
 Feito com dedicação por Davi Mafra — @devmafra
+
 ---
 
 ## ▶️ Como rodar
